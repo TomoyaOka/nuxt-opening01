@@ -1,0 +1,8 @@
+body {
+  background-color: #111;
+}
+
+.router-link-active {
+  pointer-events: none;
+  opacity: 0.6;
+}
